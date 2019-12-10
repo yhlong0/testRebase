@@ -15,3 +15,5 @@ add new thing to local dev
 new commit 1.0
 
 new commit 1.1
+
+new commit 1.2
