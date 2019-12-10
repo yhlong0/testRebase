@@ -17,3 +17,5 @@ new commit 1.0
 new commit 1.1
 
 new commit 1.2
+
+dev 1.0
