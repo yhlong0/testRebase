@@ -23,3 +23,5 @@ dev 1.0
 dev 1.1
 
 dev 1.2
+
+local dev 1.0
