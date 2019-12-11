@@ -28,3 +28,5 @@ local dev 1.0
 
 dev upstream 1.0
 
+upstream dev 1.1
+
